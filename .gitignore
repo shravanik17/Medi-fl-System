@@ -1,0 +1,9 @@
+classification-data
+opg-data
+data
+node_modules
+.env
+__pycache__
+best.pt
+runs
+model
